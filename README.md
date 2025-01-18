@@ -33,20 +33,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated BICT undergraduate 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
----
-
-## 📈 GitHub Stats
-
-![Amila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amila-nirmal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amila-nirmal&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 
-- 📧 **Email**: [amilanirmal@example.com](mailto:amilanirmal@example.com)
+- 📧 **Email**: [yamilanirmal@gmail.com](mailto:yamilanirmal@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/amila-nirmal](https://linkedin.com/in/amila-nirmal)
-- 📝 **Portfolio**: [amilanirmal.dev](https://amilanirmal.dev)
+- 📝 **Portfolio**: [amila.is-a.dev](https://amila.is-a.dev)
 
 ---
 
